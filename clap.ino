@@ -12,6 +12,7 @@ void setup()
 {
   pinMode(sensorPin, INPUT);
   pinMode(signalToRelayPin, OUTPUT);
+  Serial.begin(9600);
 }
 
 void loop()
