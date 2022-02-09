@@ -1,4 +1,4 @@
-#define togglePin 13
+#define togglePin 3
 #define sensorPin 2
 
 int time = 0;
